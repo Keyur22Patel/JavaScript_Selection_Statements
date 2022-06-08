@@ -17,9 +17,7 @@ JavaScript has a built-in function for taking input from a user on a webpage. `w
 Example:
 
 ```js
-let answer = prompt("What is your name");
-
-console.log("Hello, " + answer); // prints a message using the answer inputted by the user
+ prints a message using the answer inputted by the user
 ```
 
 ## Exercise 1
